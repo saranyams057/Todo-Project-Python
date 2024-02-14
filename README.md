@@ -4,6 +4,7 @@ This is a simple TODO application built using Django, a high-level Python web fr
 
 
 **Features**
+
 Task Management: Users can create new tasks, view existing tasks, update task details, mark tasks as completed, and delete tasks.
 
 CRUD Operations: Full CRUD (Create, Read, Update, Delete) operations are supported for managing tasks.
@@ -29,4 +30,6 @@ Customization: The application can be easily extended and customized to add new 
 -- Deployment: Can be deployed on various platforms, including Heroku, AWS, or any other hosting service that supports Python and Django applications
 
 **Screenshot**
+
+
 ![Screenshot (283)](https://github.com/saranyams057/Todo-Project-Python/assets/61340715/44de5e44-dae1-4fb0-a5ee-024ff3b41f50)
