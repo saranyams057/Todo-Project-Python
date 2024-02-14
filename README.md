@@ -12,12 +12,19 @@ Customization: The application can be easily extended and customized to add new 
 **Tech Stack**
 
 Backend Framework: Django 
+
 Frontend Framework: HTML, CSS (with Bootstrap for styling)
+
 Database: SQLite (for simplicity), can be easily switched 
+
 o other databases supported by Django (such as PostgreSQL, MySQL, or Oracle)
+
 User Authentication: Django's built-in authentication system
+
 Dependency Management: pip (Python package manager)
+
 Version Control: Git
+
 Deployment: Can be deployed on various platforms, including Heroku, AWS, or any other hosting service that supports Python and Django applications
 
 **Screenshot**
